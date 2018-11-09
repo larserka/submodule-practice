@@ -1,7 +1,10 @@
 [submodule "furry-octo-nemesis"]
 	path = furry-octo-nemesis
-	url = git@github.com:christi3k/furry-octo-nemesis.git
+	url = git@github.com:larserka/furry-octo-nemesis.git
 [submodule "scaling-octo-wallhack"]
 	path = scaling-octo-wallhack
-  url = git@github.com:christi3k/scaling-octo-wallhack.git
+  url = git@github.com:larserka/scaling-octo-wallhack.git
   ignore = all
+[submodule "psychic-avenger"]
+	path = psychic-avenger
+	url = git@github.com:larserka/psychic-avenger.git
